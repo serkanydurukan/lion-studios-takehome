@@ -17,7 +17,6 @@ In this project, I evaluated whether a redesigned **Shop** icon would boost shop
 
 ##  Repository Structure
 
-.
 ├── post_experiment_analysis.ipynb # Fully documented notebook with visuals, stats, and stories.
 
 ├── lionstudios_data_analyst_take_home.csv # Session-level dataset (tracked via Git LFS if large).
