@@ -1,4 +1,4 @@
-# Match 3D – Shop Icon A/B Test Analysis
+# Shop Icon A/B Test Analysis
 
 ##  Overview  
 In this project, I evaluated whether a redesigned **Shop** icon would boost shop entry rates for new users of *Match 3D* by at least **10%**. The Product team proposed a **20% / 80%** (Test / Control) split, but the dataset actually reflects a roughly **50/50** split. I analyzed both scenarios for completeness and robustness.
