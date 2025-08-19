@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/conda-meta/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Jupyter
+.notebooks/
+.jupyter/
+
+# Data (DO NOT COMMIT RAW DATA)
+data/*
+!data/.gitkeep
+
+# VS Code
+.vscode/
