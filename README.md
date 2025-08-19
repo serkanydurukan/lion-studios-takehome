@@ -19,11 +19,17 @@ In this project, I evaluated whether a redesigned **Shop** icon would boost shop
 
 .
 ├── post_experiment_analysis.ipynb # Fully documented notebook with visuals, stats, and stories.
+
 ├── lionstudios_data_analyst_take_home.csv # Session-level dataset (tracked via Git LFS if large).
+
 ├── README.md
+
 ├── requirements.txt # Required Python environment (pandas, numpy, scipy, etc.).
+
 ├── .gitignore # Ignored files (e.g., caches, checkpoints).
+
 └── .gitattributes # Git LFS tracking for large files.
+
 
 
 ---
