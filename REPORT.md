@@ -1,6 +1,8 @@
 # Post-Experiment Analysis
 
-## KPIs Evaluated
+---
+
+### Q1. For all KPIs evaluated: describe your choices in evaluating them
 
 - **Shop Icon Open Rate (Primary KPI):**  
   The main metric was the rate at which users opened the shop via the icon. This directly captures the behavior the new icon was intended to influence. The hypothesis was a +10% lift, so measuring icon click-through was the most direct way to test success.
@@ -16,7 +18,7 @@
 
 ---
 
-## Additional Data Desired
+### Q2. What other data about users and their behaviour would you have also liked to have to evaluate this AB test?
 
 - **Long-Term Retention & Revenue:**  
   Metrics like Day-7 or Day-14 retention would show if the effect persisted or evolved over time.
@@ -32,7 +34,7 @@
 
 ---
 
-## Statistical Tests and Assumptions
+### Q3. For all statistical tests performed: describe those statistical tests, their assumptions, and why they are the appropriate choice
 
 - **Two-Proportion z-Test (for rates):**  
   Used for binary outcomes like shop icon open rate and purchase conversion.  
@@ -51,7 +53,7 @@ Overall, the tests chosen matched the metric types and assumptions, ensuring val
 
 ---
 
-## Outcome of the Experiment
+### Q4. What was the outcome of the experiment?
 
 The new shop icon **underperformed**:
 
@@ -63,7 +65,7 @@ The outcome was the opposite of the intended +10% lift — instead, the redesign
 
 ---
 
-## Confidence in the Result
+### Q5. How confident are you in this result? Why?
 
 Confidence is **very high** due to:
 
@@ -76,7 +78,7 @@ The chance that this is a false signal is negligible.
 
 ---
 
-## Recommendations for Product
+### Q6. What are your recommendations for Product as a result of this outcome?
 
 - **Do not roll out the new icon.** The control clearly outperformed the variant.  
 - **Investigate why the new icon failed.** Possible issues: visibility, intuitiveness, or visual clarity. Gather qualitative feedback.  
@@ -85,4 +87,3 @@ The chance that this is a false signal is negligible.
 - **Maintain guardrail metrics.** Always ensure engagement and revenue are not harmed by UI changes.  
 
 **Conclusion:** The tested icon design hurt performance. Stick with the current design while iterating on a better solution, guided by both quantitative and qualitative insights.
-
