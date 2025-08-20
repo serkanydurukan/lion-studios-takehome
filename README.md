@@ -23,7 +23,7 @@ I additionally performed **segmented analyses**:
 
 The results were consistent across all segments, showing no meaningful deviation from the overall findings: the new shop icon reduced shop entrances, purchases, and revenue.  
 
-For further context and structured answers to the **post-experiment questions**, please see the separate file: `post_experiment_questions.md`.
+For further context and structured answers to the **post-experiment questions**, please see the separate file: `Post_Experiment_Questions.md`.
 
 
 ---
