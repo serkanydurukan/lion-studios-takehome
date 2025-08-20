@@ -13,6 +13,19 @@ In this project, I evaluated whether a redesigned **Shop** icon would boost shop
 
 **Recommendation:** *Do not roll out the new Shop icon.* Instead, conduct usability research and consider iterative UI improvements with retention safeguards in place.
 
+## Final Notes
+
+This notebook not only contains the step-by-step analysis of the A/B test but also concludes with this report summarizing the main findings.  
+
+I additionally performed **segmented analyses**:
+- iOS vs Android  
+- US vs Non-US  
+
+The results were consistent across all segments, showing no meaningful deviation from the overall findings: the new shop icon reduced shop entrances, purchases, and revenue.  
+
+For further context and structured answers to the **post-experiment questions**, please see the separate file: `post_experiment_questions.md`.
+
+
 ---
 
 ##  Repository Structure
