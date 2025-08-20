@@ -15,7 +15,7 @@ In this project, I evaluated whether a redesigned **Shop** icon would boost shop
 
 ## Final Notes
 
-This notebook not only contains the step-by-step analysis of the A/B test but also concludes with this report summarizing the main findings.  
+This notebook (post_experiment_analysis.ipynb) not only contains the step-by-step analysis of the A/B test but also concludes with this report summarizing the main findings.  
 
 I additionally performed **segmented analyses**:
 - iOS vs Android  
