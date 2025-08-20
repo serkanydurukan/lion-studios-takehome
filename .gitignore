@@ -16,7 +16,7 @@ env/conda-meta/
 .jupyter/
 
 # Data (DO NOT COMMIT RAW DATA)
-data/*
+#data/*
 !data/.gitkeep
 
 # VS Code
