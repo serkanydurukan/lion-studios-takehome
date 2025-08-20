@@ -14,7 +14,7 @@
   We tracked average revenue per user to measure monetization impact. Even if purchase rates shift, ARPU reveals whether revenue per user went up or down, capturing the net financial effect.
 
 - **Engagement & Guardrail Metrics:**  
-  Secondary metrics such as **any shop opens (via icon or interstitial)**, **sessions**, **levels played**, and **playtime** were examined to ensure the new design didn’t harm broader engagement. These guardrails confirm the icon didn’t unintentionally reduce gameplay or retention.
+  Secondary metrics such as **any shop opens (via icon or interstitial)**, **sessions**, **levels played**, **playtime** and **rvs_watced** were examined to ensure the new design didn’t harm broader engagement. These guardrails confirm the icon didn’t unintentionally reduce gameplay or retention.
 
 ---
 
